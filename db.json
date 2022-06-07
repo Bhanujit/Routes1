@@ -1,0 +1,148 @@
+{
+  "watches":[
+    {
+      "id":107,
+      "image": "https://staticimg.titan.co.in/Fastrack/Catalog/68023PP01W_1.jpg?pView=listing",
+      "title": "Monochrome Grey Dial Grey Silicone Strap Watch",
+      "discountedPrice": 715,
+      "price": 795,
+      "discount": "(10% Off)",
+      "labelone": "Quartz movement",
+      "labeltwo": "Grey Dial Watch"
+    },
+    {
+      "id":105,
+      "image": "https://staticimg.titan.co.in/Fastrack/Catalog/68023PP02W_1.jpg?pView=listing",
+      "title": "Monochrome Blue Dial Blue Silicone Strap Watch",
+      "discountedPrice": 715,
+      "price": 795,
+      "discount": "(10% Off)",
+      "labelone": "",
+      "labeltwo": ""
+    },
+    {
+      "id":102,
+      "image": "https://staticimg.titan.co.in/Fastrack/Catalog/68023PP03W_1.jpg?pView=listing",
+      "title": "Monochrome Blue Dial Blue Silicone Strap Watch",
+      "discountedPrice": 715,
+      "price": 795,
+      "discount": "(10% Off)",
+      "labelone": "Quartz movement",
+      "labeltwo": "Blue Dial Watch"
+    },
+    {
+      "id":103,
+      "image": "https://staticimg.titan.co.in/Fastrack/Catalog/68023PP04W_1.jpg?pView=listing",
+      "title": "Monochrome Grey Dial Grey Silicone Strap Watch",
+      "discountedPrice": 715,
+      "price": 795,
+      "discount": "(10% Off)",
+      "labelone": "Quartz movement",
+      "labeltwo": "Grey Dial Watch"
+    },
+    {
+      "id":101,
+      "image": "https://staticimg.titan.co.in/Fastrack/Catalog/68023PP05W_1.jpg?pView=listing",
+      "title": "Monochrome Pink Dial Pink Silicone Strap Watch",
+      "discountedPrice": 715,
+      "price": 795,
+      "discount": "(10% Off)",
+      "labelone": "Quartz movement",
+      "labeltwo": "Pink Dial Watch"
+    },
+    { "id":18,
+      "image": "https://staticimg.titan.co.in/Fastrack/Catalog/68024AP02_1.jpg?pView=listing",
+      "title": "Reflex Smart Watch with Silicone Blue Strap",
+      "discountedPrice": 3995,
+      "price": 5995,
+      "discount": "(33% Off)",
+      "labelone": "No Cost EMI",
+      "labeltwo": "Smart Watch"
+    },
+    {
+      "id":111,
+      "image": "https://staticimg.titan.co.in/Fastrack/Catalog/SWD90067PP02A_1.jpg?pView=listing",
+      "title": "Reflex 3.0 Dual Toned Smart Band in Midnight Black & Tu...",
+      "discountedPrice": 2095,
+      "price": 2995,
+      "discount": "(30% Off)",
+      "labelone": "10+ Sports Modes",
+      "labeltwo": "Full Touch Colour Display"
+    },
+    {
+      "id":109,
+      "image": "https://staticimg.titan.co.in/Fastrack/Catalog/SWD90067PP03A_1.jpg?pView=listing",
+      "title": "Reflex 3.0 Dual Toned Smart Band in Midnight Black & Gr...",
+      "discountedPrice": 2095,
+      "price": 2995,
+      "discount": "(30% Off)",
+      "labelone": "10+ Sports Modes",
+      "labeltwo": "Full Touch Colour Display"
+    },
+    {
+      "id":108,
+      "image": "https://staticimg.titan.co.in/Fastrack/Catalog/SWD90067PP04A_1.jpg?pView=listing",
+      "title": "Reflex 3.0 Dual Toned Smart Band in Pink Strap & Green ...",
+      "discountedPrice": 2095,
+      "price": 2995,
+      "discount": "(30% Off)",
+      "labelone": "10+ Sports Modes",
+      "labeltwo": "Full Touch Colour Display"
+    },
+    { "id":1,
+      "image": "https://staticimg.titan.co.in/Fastrack/Catalog/A4009NBK01_1.jpg?pView=listing",
+      "title": "Black Nylon Sling Bag",
+      "discountedPrice": 1745
+    },
+   
+    {
+      "id":18,
+      "image": "https://staticimg.titan.co.in/Fastrack/Catalog/A4016PMG01_1.jpg?pView=listing",
+      "title": "Green Semi PU Sling Bag",
+      "discountedPrice": 2095
+    },
+    {
+      "id":19,
+      "image": "https://staticimg.titan.co.in/Fastrack/Catalog/68024AP01_1.jpg?pView=listing",
+      "title": "Reflex Smart Watch with Silicone Black Strap",
+      "discountedPrice": 3995,
+      "price": 5995,
+      "discount": "(33% Off)",
+      "labelone": "No Cost EMI",
+      "labeltwo": "Smart Watch"
+    },
+    {
+      "id":16,
+      "image": "https://staticimg.titan.co.in/Fastrack/Catalog/A4016PBL01_1.jpg?pView=listing",
+      "title": "Blue Semi PU Sling Bag",
+      "discountedPrice": 2095
+    },
+   
+    { "id":19,
+      "image": "https://staticimg.titan.co.in/Fastrack/Catalog/68024AP03_1.jpg?pView=listing",
+      "title": "Reflex Smart Watch with Silicone Pink Strap",
+      "discountedPrice": 3995,
+      "price": 5995,
+      "discount": "(33% Off)",
+      "labelone": "No Cost EMI",
+      "labeltwo": "Smart Watch"
+    },
+    { "id":20,
+      "image": "https://staticimg.titan.co.in/Fastrack/Catalog/38072AP01_1.jpg?pView=listing",
+      "title": "Reflex Vox Digital Silicone Black Strap Watch",
+      "discountedPrice": 4995,
+      "price": 6995,
+      "discount": "(29% Off)",
+      "labelone": "No Cost EMI",
+      "labeltwo": "Smart Watch"
+    }
+  ],
+  "users":[
+    {
+      "email":"user@1234",
+      "password":"1234"
+    }
+  ]
+
+}
+
